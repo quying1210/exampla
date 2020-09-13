@@ -1,0 +1,3 @@
+SETB PSW.4  ;select bank 2
+MOV R0,#99H ;RAM location 10H has 99H
+ADD R1,#85H ;RAM location 11H has 85H
