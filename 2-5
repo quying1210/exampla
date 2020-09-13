@@ -1,2 +1,0 @@
-MOV R0,#99H; load R0 with 99H
-ADD R1,#85H ;load R1 with 85H
