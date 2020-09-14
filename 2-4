@@ -1,2 +1,0 @@
-MOV A,#88H
-ADD A,#93H ;after the addition A=1BH, CY=1
