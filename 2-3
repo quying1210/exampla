@@ -1,2 +1,0 @@
-MOV A,#9CH
-ADD A,#64H;after the addition 
